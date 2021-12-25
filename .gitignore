@@ -1,0 +1,14 @@
+# scripts and data files should not be shared
+data/*
+src/*
+refs/*
+output/*
+
+# binaries should not be shared
+*.o
+*.dll
+*.so 
+
+# private files should not be shared
+xx_*
+Makefile
