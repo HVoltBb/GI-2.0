@@ -3,6 +3,7 @@ data/*
 src/*
 refs/*
 output/*
+doc/*
 
 # binaries should not be shared
 *.o

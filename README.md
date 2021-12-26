@@ -1,6 +1,6 @@
 ![cover image](https://hvoltbb.github.io/pics/cover_pic4.png)
 
-# Timescale Dependent Ecological Adaptations
+# Timescale-Dependent Ecological Adaptation
 
 ![version: v0.7](https://img.shields.io/badge/version-v0.7-blue.svg)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)][1]
