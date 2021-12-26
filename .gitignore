@@ -1,4 +1,4 @@
-# scripts and data files should not be shared
+# scripts and data files will not be shared
 data/*
 src/*
 refs/*
@@ -9,6 +9,6 @@ output/*
 *.dll
 *.so 
 
-# private files should not be shared
+# private files will not be shared
 xx_*
 Makefile
